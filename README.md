@@ -13,3 +13,5 @@ npm run dev
 ```
 
 GitHub Pages: Settings > Pages > Build and deployment > Source > GitHub Actions. Then check Actions > Deploy Web preview to GitHub Pages.
+
+Deployment is published from the `main` branch through GitHub Actions.
